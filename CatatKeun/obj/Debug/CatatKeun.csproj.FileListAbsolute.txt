@@ -1,0 +1,27 @@
+C:\Users\user\source\repos\CatatKeun\bin\Debug\CatatKeun.exe.config
+C:\Users\user\source\repos\CatatKeun\bin\Debug\CatatKeun.exe
+C:\Users\user\source\repos\CatatKeun\bin\Debug\CatatKeun.pdb
+C:\Users\user\source\repos\CatatKeun\bin\Debug\Guna.UI2.dll
+C:\Users\user\source\repos\CatatKeun\obj\Debug\CatatKeun.Form1.resources
+C:\Users\user\source\repos\CatatKeun\obj\Debug\CatatKeun.Properties.Resources.resources
+C:\Users\user\source\repos\CatatKeun\obj\Debug\CatatKeun.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CatatKeun\obj\Debug\CatatKeun.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CatatKeun\obj\Debug\CatatKeun.csproj.CopyComplete
+C:\Users\user\source\repos\CatatKeun\obj\Debug\CatatKeun.exe
+C:\Users\user\source\repos\CatatKeun\obj\Debug\CatatKeun.pdb
+C:\Users\user\source\repos\CatatKeun\obj\Debug\CatatKeun.MainForm.resources
+C:\Users\user\source\repos\CatatKeun\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\CatatKeun\bin\Debug\Google.Protobuf.dll
+C:\Users\user\source\repos\CatatKeun\bin\Debug\ZstdNet.dll
+C:\Users\user\source\repos\CatatKeun\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\source\repos\CatatKeun\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\source\repos\CatatKeun\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\source\repos\CatatKeun\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\CatatKeun\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\source\repos\CatatKeun\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\source\repos\CatatKeun\bin\Debug\MySql.Data.xml
+C:\Users\user\source\repos\CatatKeun\obj\Debug\CatatKeun.exe.config
+C:\Users\David\Downloads\C# CRUD-20220418T060802Z-001\C# CRUD\CatatKeun\CatatKeun\obj\Debug\CatatKeun.csproj.AssemblyReference.cache
+C:\Users\David\Downloads\C# CRUD-20220418T060802Z-001\C# CRUD\CatatKeun\CatatKeun\obj\Debug\CatatKeun.exe.config
+C:\Users\David\Downloads\C# CRUD-20220418T060802Z-001\C# CRUD\CatatKeun\CatatKeun\obj\Debug\CatatKeun.exe
+C:\Users\David\Downloads\C# CRUD-20220418T060802Z-001\C# CRUD\CatatKeun\CatatKeun\obj\Debug\CatatKeun.pdb
